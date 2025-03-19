@@ -1,12 +1,12 @@
 Hi, I'm Albert 👋
 ---
 **📌About** <br>
-Hi, I'm Muhamad Fajar, also known as Fajarnadril. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.
+Hi, I'm Albert Nugroho, also known as Albert. I am an undergraduate in BINUS University that specializes on Game Development.
 
-I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
+I'm passionate about AI, Game Development. I develop games that hopefully will give anyone who plays it fun.
 
 **📩Email** <br>
-hi@fajar.io
+albertnugroho1506@gmial.com
 
 <br>
 
