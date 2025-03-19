@@ -25,7 +25,7 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top"> Project <code style="color: Red">Ruby's way to grandma's</code> is a dungeon crawler with proceduraly generated level that have the player explore a dungeon using their skill to kill monsters and collect keys to get to grandma's House 
+      <td valign="text-top"> Project <span style="color: red">Ruby's way to grandma's</span> is a dungeon crawler with proceduraly generated level that have the player explore a dungeon using their skill to kill monsters and collect keys to get to grandma's House 
         <!--ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.--></td> <!--desc-->
       <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
