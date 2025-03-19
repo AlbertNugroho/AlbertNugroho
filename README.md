@@ -50,10 +50,10 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
+<!--         <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;"> -->
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
+<!--         <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;"> -->
       </td>
     </tr>
     <tr>
@@ -64,10 +64,7 @@ albertnugroho1506@gmail.com
       <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
       <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
     </tr>
-    <tr>
-      <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
-      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> <!--link 4-->
-    </tr>
+
   </tbody>
 </table>
 
