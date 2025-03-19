@@ -1,33 +1,32 @@
 Hi, I'm Albert 👋
 ---
 **📌About** <br>
-Hi, I'm Albert Nugroho, also known as Albert. I am an undergraduate in BINUS University that specializes on Game Development.
-
-I'm passionate about AI, Game Development. I develop games that hopefully will give anyone who plays it fun.
+I'm an undergraduate student at BINUS University, specializing in Game Development. Passionate about creating immersive gaming experiences, I enjoy working with Unity, procedural level generation, AI-driven gameplay, and flexible game mechanics.
 
 **📩Email** <br>
-albertnugroho1506@gmial.com
+albertnugroho1506@gmail.com
 
 <br>
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Ruby's way to grandma's</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
+<!--         <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;"> -->
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
+<!--         <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;"> -->
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
+      <td valign="text-top"> Project <code style="color : Red">Ruby's way to grandma's</code> is a dungeon crawler with proceduraly generated level that have the player explore a dungeon using their skill to kill monsters and collect keys to get to grandma's House 
+        <!--ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.--></td> <!--desc-->
       <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
