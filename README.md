@@ -31,7 +31,7 @@ albertnugroho1506@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/Project-Pony">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
