@@ -12,7 +12,7 @@ albertnugroho1506@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Ruby's way to grandma's</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>PlaceHolder</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Super Pony Fighter X</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -25,9 +25,9 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top"> Project "Ruby's way to grandma's" is a dungeon crawler with proceduraly generated level that have the player explore a dungeon using their skill to kill monsters and collect keys to get to grandma's House 
+      <td valign="text-top"> Project "Ruby's way to grandma's" is a dungeon crawler with proceduraly generated level that have the player explore a dungeon using their skill to kill monsters and collect keys to get to grandma's House this game is my first game that i've ever made 
         <!--ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.--></td> <!--desc-->
-      <td valign="text-top"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<!--Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day--></td> <!--desc-->
+      <td valign="text-top"> Project "Super Pony Fighter X" is an Atari shooter game which has you shoot evil ponies an gain power ups to get the highest score you can achieve. this project is also has controller and keyboard only controls and uses the new unity input system. <!--Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day--></td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link1-->
