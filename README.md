@@ -43,7 +43,7 @@ albertnugroho1506@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>PlaceHolder</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>A Winner's Resolve</a></th> <!--tittle 3-->
       <th width="50%" align="center"><a>PlaceHolder</a></th> <!--tittle 4-->
     </tr>
   </thead>
@@ -61,7 +61,7 @@ albertnugroho1506@gmail.com
       <td valign="text-top">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<!--Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.--></td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/Project-A-Winners-Resolve">Read More</a></td> <!--link 3-->
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link 4-->
     </tr>
 
