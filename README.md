@@ -18,10 +18,10 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Preview.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Ruby%20Preview.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Placeholder_view_vector.svg.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Pony%20Preview.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
