@@ -43,26 +43,20 @@ albertnugroho1506@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>A Winner's Effort</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a>PlaceHolder</a></th> <!--tittle 4-->
+      <th width="100%" align="center"><a>A Winner's Effort</a></th> <!--tittle 3-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Placeholder_view_vector.svg.png" alt="2" style="width:100%;height:auto;">
-      </td>
-      <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Placeholder_view_vector.svg.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/A%20winners%20Effort%20preview.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top"> Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away<!--Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.--></td> <!--desc-->
-      <td valign="text-top">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<!--Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.--></td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-A-Winners-Resolve">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link 4-->
     </tr>
 
   </tbody>
