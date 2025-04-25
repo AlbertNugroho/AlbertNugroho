@@ -41,10 +41,10 @@ albertnugroho1506@gmail.com
 <br>
 
 
-<table width="50%">
+<table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a>A Winner's Effort</a></th> <!--tittle 3-->
+      <th width="100%"><a>A Winner's Effort</a></th> <!--tittle 3-->
     </tr>
   </thead>
   <tbody>
@@ -54,7 +54,7 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top" align="center"> 
+      <td valign="text-top" align="center" width="50%"> 
         Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away</td> 
     </tr>
     <tr>
