@@ -44,7 +44,7 @@ albertnugroho1506@gmail.com
 <table width="50%">
   <thead>
     <tr>
-      <th width="100%"><a>A Winner's Effort</a></th> <!--tittle 3-->
+      <th width="50%"><a>A Winner's Effort</a></th> <!--tittle 3-->
     </tr>
   </thead>
   <tbody>
