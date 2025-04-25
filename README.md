@@ -43,12 +43,12 @@ albertnugroho1506@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="100%" align="center"><a>A Winner's Effort</a></th> <!--tittle 3-->
+      <th width="100%"><a>A Winner's Effort</a></th> <!--tittle 3-->
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" style="text-align:center; vertical-align:middle; height:150px; padding:0 20%;">
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/A%20winners%20Effort%20preview.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
