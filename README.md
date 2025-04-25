@@ -18,10 +18,10 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Preview.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Ruby%20Preview.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Placeholder_view_vector.svg.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Pony%20Preview.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -54,7 +54,7 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top" align="center"> 
+      <td valign="text-top" align="center" width="50%"> 
         Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away</td> 
     </tr>
     <tr>
