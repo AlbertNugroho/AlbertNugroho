@@ -41,7 +41,7 @@ albertnugroho1506@gmail.com
 <br>
 
 
-<table width="100%">
+<table width="50%">
   <thead>
     <tr>
       <th width="100%"><a>A Winner's Effort</a></th> <!--tittle 3-->
