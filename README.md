@@ -53,7 +53,7 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top"> Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away<!--Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.--></td> <!--desc-->
+      <td valign="text-top" align="center"> Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away<!--Shevia Fire is a safety training application utilizing Virtual Reality platforms like Meta Quest 3. It features modules on using fire blankets, as well as handling indoor and outdoor fire scenarios. The application was developed in under two months. As the Project Lead, I was responsible for task delegation, timeline management, and product design.--></td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-A-Winners-Resolve">Read More</a></td> <!--link 3-->
