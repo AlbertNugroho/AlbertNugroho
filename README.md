@@ -58,7 +58,7 @@ albertnugroho1506@gmail.com
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/A%20winners%20Effort%20preview.gif" alt="2" style="width:100%;height:auto;">
       </td>
        <td align="center" >
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/A%20winners%20Effort%20preview.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/PrevNecrodemios.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
