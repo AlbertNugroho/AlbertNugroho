@@ -65,15 +65,15 @@ albertnugroho1506@gmail.com
       <td valign="text-top"> 
         Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away</td> 
       <td valign="text-top"> 
-        Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away</td> 
+        Project "Necrodemios" is a game i made for the Pixel Game Jam 2025. the game is made within 10 days. in the game you are NecroDeimos the almighty Gunsmith of the Damned. You forge weapons from the dead, transforming your foes into firepower. this is a rougelike game where you kill enemies to get enough fire power to beat the boss</td> 
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-A-Winners-Resolve">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-A-Winners-Resolve">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/Project-PixelGameJam">Read More</a></td> <!--link 3-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=P4G3ocNLi5g">Trailer</a></td> <!--link2-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=P4G3ocNLi5g">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=4vcl18ngILU">Trailer</a></td> <!--link2-->
     </tr>
 
   </tbody>
