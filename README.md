@@ -82,7 +82,6 @@ albertnugroho1506@gmail.com
   - Inventory crafting system<br>
   - Gun & attachment sprites
 </td>
-
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-A-Winners-Resolve">Read More</a></td> <!--link 3-->
       <td align="center"><a href="https://skyalert.itch.io/necrodemios">Play on Itch.io</a></td> <!--link 3-->
