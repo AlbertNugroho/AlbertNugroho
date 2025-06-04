@@ -26,7 +26,7 @@ albertnugroho1506@gmail.com
     </tr>
     <tr>
       <td valign="text-top">
-  A 2D dungeon crawler where you fight monsters, collect keys, and brave procedurally generated levels on your journey to Grandma's House. This was my first ever game project!  
+  Ruby's way to grandma's is a 2D dungeon crawler where you fight monsters, collect keys, and brave procedurally generated levels on your journey to Grandma's House. This was my first ever game project 
   <br><br>
   <strong>Duration:</strong> 15 days  
   <br><br>
