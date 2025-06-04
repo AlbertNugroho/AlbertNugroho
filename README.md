@@ -35,8 +35,15 @@ albertnugroho1506@gmail.com
   – Created a procedural level generation system<br>
   – Developed the attack system  
 </td>
-      <td valign="text-top"> Project "Super Pony Fighter X" is an Atari shooter game which has you shoot evil ponies an gain power ups to get the highest score you can achieve. this project is also has controller and keyboard only controls and uses the new unity input system.
-      </td>
+      <td valign="text-top">
+  "Super Pony Fighter X" is a fast-paced Atari-style shooter where you blast evil ponies, collect power-ups, and aim for the highest score. The game supports both controller and keyboard inputs using Unity's new Input System.<br><br>
+  <strong>Duration:</strong> 3 days<br><br>
+  <strong>My Contributions</strong><br>
+  - Game design and core mechanics<br>
+  - Score manager implementation<br>
+  - Stackable power-up system<br>
+  - Level design and layout
+</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link1-->
