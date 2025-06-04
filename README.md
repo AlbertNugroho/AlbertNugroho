@@ -70,8 +70,14 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top"> 
-        Project "A Winner's Effort" is an Slendermanlike game which has you explore an abandoned factory and collect papers then get out of there as soon as possible but be weary something is stalking you, if you see it... look away</td> 
+     <td valign="text-top">
+  "A Winner's Effort" is a Slenderman-inspired horror game where you explore an abandoned factory, collect scattered papers, and escape — but beware, something is stalking you. If you see it… look away.<br><br>
+  <strong>Duration:</strong> 4 days<br><br>
+  <strong>My Contributions</strong><br>
+  - Monster AI behavior<br>
+  - Paper pickup and collection system<br>
+  - Level design and environment layout
+</td>
       <td valign="text-top">
   "Necrodemios" is a roguelike game made for Pixel Game Jam 2025, developed in 10 days. You play as NecroDeimos, forging weapons from fallen enemies to battle your way to the boss.<br><br>
   <strong>Duration:</strong> 10 days<br><br>
