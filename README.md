@@ -25,8 +25,10 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top">A 2D dungeon crawler where you fight monsters, collect keys, and brave procedurally generated levels on your journey to Grandma's House. This was my first ever game project!  
+      <td valign="text-top">A 2D dungeon crawler where you fight monsters, collect keys, and brave procedurally generated levels on your journey to Grandma's House. This was my first ever game project! 
+        
 **Duration:** 15 days  
+        
 **My Contributions**
 - Designed and implemented player skills and animations
 - Created a procedural level generation system
