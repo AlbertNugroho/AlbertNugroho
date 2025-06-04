@@ -25,7 +25,14 @@ albertnugroho1506@gmail.com
       </td>
     </tr>
     <tr>
-      <td valign="text-top"> Project "Ruby's way to grandma's" is a dungeon crawler with proceduraly generated level that have the player explore a dungeon using their skill to kill monsters and collect keys to get to grandma's House this game is my first game that i've ever made 
+      <td valign="text-top">A 2D dungeon crawler where you fight monsters, collect keys, and brave procedurally generated levels on your journey to Grandma's House. This was my first ever game project!
+
+**Duration:** 15 days
+
+## My Contributions
+- Designed and implemented player skills and animations
+- Created a procedural level generation system
+- Developed the attack system
       </td> 
       <td valign="text-top"> Project "Super Pony Fighter X" is an Atari shooter game which has you shoot evil ponies an gain power ups to get the highest score you can achieve. this project is also has controller and keyboard only controls and uses the new unity input system.
       </td>
