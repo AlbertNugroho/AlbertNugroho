@@ -97,7 +97,7 @@ albertnugroho1506@gmail.com
 </td>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-A-Winners-Resolve">Read More</a></td> <!--link 3-->
-      <td align="center"><a href="https://skyalert.itch.io/necrodemios">Play on Itch.io</a></td> <!--link 3-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/Project-PixelGameJam">Read More</a></td> <!--link 3-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=P4G3ocNLi5g">Trailer</a></td> <!--link2-->
