@@ -30,7 +30,7 @@ albertnugroho1506@gmail.com
   <br><br>
   <strong>Duration:</strong> 15 days  
   <br><br>
-  <strong>My Contributions</strong><br>
+  <strong>Contributions</strong><br>
   – Designed and implemented player skills and animations<br>
   – Created a procedural level generation system<br>
   – Developed the attack system  
@@ -38,7 +38,7 @@ albertnugroho1506@gmail.com
       <td valign="text-top">
   "Super Pony Fighter X" is a fast-paced Atari-style shooter where you blast evil ponies, collect power-ups, and aim for the highest score. The game supports both controller and keyboard inputs using Unity's new Input System.<br><br>
   <strong>Duration:</strong> 3 days<br><br>
-  <strong>My Contributions</strong><br>
+  <strong>Contributions</strong><br>
   - Game design and core mechanics<br>
   - Score manager implementation<br>
   - Stackable power-up system<br>
@@ -80,7 +80,7 @@ albertnugroho1506@gmail.com
      <td valign="text-top">
   "A Winner's Effort" is a Slenderman-inspired horror game where you explore an abandoned factory, collect scattered papers, and escape — but beware, something is stalking you. If you see it… look away.<br><br>
   <strong>Duration:</strong> 4 days<br><br>
-  <strong>My Contributions</strong><br>
+  <strong>Contributions</strong><br>
   - Monster AI behavior<br>
   - Paper pickup and collection system<br>
   - Level design and environment layout
@@ -88,7 +88,7 @@ albertnugroho1506@gmail.com
       <td valign="text-top">
   "Necrodemios" is a roguelike game made for Pixel Game Jam 2025, developed in 10 days. You play as NecroDeimos, forging weapons from fallen enemies to battle your way to the boss.<br><br>
   <strong>Duration:</strong> 10 days<br><br>
-  <strong>My Contributions</strong><br>
+  <strong>Contributions</strong><br>
   - Player animation & sprite<br>
   - Gun attachment system<br>
   - Bossfight AI<br>
