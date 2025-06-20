@@ -5,6 +5,10 @@ I'm an undergraduate student at BINUS University, specializing in Game Developme
 
 **📩Email** <br>
 albertnugroho1506@gmail.com
+**📱Whatsapp** <br>
+085878896263
+**🅾Instagram** <br>
+@albertnugrohoreeeeeeeeee
 
 <br>
 
