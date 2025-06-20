@@ -7,7 +7,7 @@ I'm an undergraduate student at BINUS University, specializing in Game Developme
 albertnugroho1506@gmail.com
 
 **📱Whatsapp** <br>
-085878896263
++6285878896263
 
 **🅾Instagram** <br>
 @albertnugrohoreeeeeeeeee
