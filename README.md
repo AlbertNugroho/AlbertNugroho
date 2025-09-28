@@ -11,6 +11,9 @@ albertnugroho1506@gmail.com
 
 **🅾Instagram** <br>
 @albertnugrohoreeeeeeeeee
+
+<h2 align = "center">Apps That I've Worked On</h2>
+<br>
 <table width="100%">
   <thead>
     <tr>
@@ -59,7 +62,6 @@ albertnugroho1506@gmail.com
   </tbody>
 </table> 
 <br>
-<h2 align = "center">Apps That I've Worked On</h2>
 
 
 <h2 align = "center">Games That I've Made</h2>
