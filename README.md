@@ -12,54 +12,6 @@ albertnugroho1506@gmail.com
 **🅾Instagram** <br>
 @albertnugrohoreeeeeeeeee
 
-<h2 align = "center">Apps That I've Worked On</h2>
-<br>
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><a>Binus Canteen App</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Game Catalogue</a></th> <!--tittle-->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img width="393" height="852" alt="unnamed" src="https://github.com/user-attachments/assets/3ae8b1ee-3716-4b74-b1ab-82cf6be52445" />
-      </td>
-      <td align="center">
-        <img width="342" height="688" alt="Screenshot 2025-06-06 200331" src="https://github.com/user-attachments/assets/101c3d88-ea0f-4ba8-9131-9b507675aa7e" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">
-  "Binus Canteen" is the final project for our Software Engineering course, where we created an application that allows users to order food from the Binus canteen using React Native.
-  <br><br>
-  <strong>Duration:</strong> 1 month  
-  <br><br>
-  <strong>Contributions:</strong><br>
-  -Frontend Developer
-</td>
-      <td valign="text-top">
-  "Game Catalogue" is the final project for my Mobile Development course, where I built an application that fetches game data from an API and presents it in a catalogue, making it easier to search and find information about games. I developed this app using Android Studio with Kotlin.<br><br>
-  <strong>Duration:</strong> 2 weeks<br><br>
-  <strong>Contributions:</strong><br>
-  -Frontend Developer
-  -Designer
-</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-Pony">Read More</a></td> <!--link2-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=sIzs-qnkpN8">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=_s9oKqDdjMo">Trailer</a></td> <!--link2-->
-    </tr>
-  </tbody>
-</table> 
-<br>
-
-
 <h2 align = "center">Games That I've Made</h2>
 
 <table width="100%">
@@ -160,4 +112,51 @@ albertnugroho1506@gmail.com
 
   </tbody>
 </table>
+<br>
+<h2 align = "center">Apps That I've Worked On</h2>
+<br>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Binus Canteen App</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Game Catalogue</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="393" height="852" alt="unnamed" src="https://github.com/user-attachments/assets/3ae8b1ee-3716-4b74-b1ab-82cf6be52445" />
+      </td>
+      <td align="center">
+        <img width="342" height="688" alt="Screenshot 2025-06-06 200331" src="https://github.com/user-attachments/assets/101c3d88-ea0f-4ba8-9131-9b507675aa7e" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">
+  "Binus Canteen" is the final project for our Software Engineering course, where we created an application that allows users to order food from the Binus canteen using React Native.
+  <br><br>
+  <strong>Duration:</strong> 1 month  
+  <br><br>
+  <strong>Contributions:</strong><br>
+  -Frontend Developer
+</td>
+      <td valign="text-top">
+  "Game Catalogue" is the final project for my Mobile Development course, where I built an application that fetches game data from an API and presents it in a catalogue, making it easier to search and find information about games. I developed this app using Android Studio with Kotlin.<br><br>
+  <strong>Duration:</strong> 2 weeks<br><br>
+  <strong>Contributions:</strong><br>
+  -Frontend Developer
+  -Designer
+</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/Project-Pony">Read More</a></td> <!--link2-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.youtube.com/watch?v=sIzs-qnkpN8">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=_s9oKqDdjMo">Trailer</a></td> <!--link2-->
+    </tr>
+  </tbody>
+</table> 
+<br>
 
