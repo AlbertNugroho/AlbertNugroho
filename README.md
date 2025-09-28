@@ -24,31 +24,27 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Ruby%20Preview.gif" alt="1" style="width:100%;height:auto;">
+        <img width="393" height="852" alt="unnamed" src="https://github.com/user-attachments/assets/3ae8b1ee-3716-4b74-b1ab-82cf6be52445" />
       </td>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Pony%20Preview.gif" alt="2" style="width:100%;height:auto;">
+        <img width="342" height="688" alt="Screenshot 2025-06-06 200331" src="https://github.com/user-attachments/assets/101c3d88-ea0f-4ba8-9131-9b507675aa7e" />
       </td>
     </tr>
     <tr>
       <td valign="text-top">
-  "Ruby's way to grandma's" is a 2D dungeon crawler where you fight monsters, collect keys, and brave procedurally generated levels on your journey to Grandma's House. This was my first ever game project 
+  Binus Canteen adalah project akhir mata kuliah software engineering kami dimana kami membuat aplikasi yang dapat mengorder makanan dari kantin binus menggunakan react native
   <br><br>
-  <strong>Duration:</strong> 15 days  
+  <strong>Duration:</strong> 1 month  
   <br><br>
   <strong>Contributions:</strong><br>
-  – Designed and implemented player skills and animations<br>
-  – Created a procedural level generation system<br>
-  – Developed the attack system  
+  -Frontend Developer
 </td>
       <td valign="text-top">
-  "Super Pony Fighter X" is a fast-paced Atari-style shooter where you blast evil ponies, collect power-ups, and aim for the highest score. The game supports both controller and keyboard inputs using Unity's new Input System.<br><br>
+  Game Catalogue adalah tugas akhir matakuliah mobile saya dimana saya membuat aplikasi yang mengambil data game dari API lalu mengemasnya dalam catalogue agar mudah dicari dan ditemukan informasi tentang game tersebut. saya menggunakan android studio kotlin untuk mengembangkan app ini<br><br>
   <strong>Duration:</strong> 3 days<br><br>
   <strong>Contributions:</strong><br>
-  - Game design and core mechanics<br>
-  - Score manager implementation<br>
-  - Stackable power-up system<br>
-  - Level design and layout
+  -Frontend Developer
+  -Designer
 </td>
     </tr>
     <tr>
