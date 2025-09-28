@@ -147,14 +147,9 @@ albertnugroho1506@gmail.com
   -Frontend Developer
   -Designer
 </td>
-    </tr>
     <tr>
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-Pony">Read More</a></td> <!--link2-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=sIzs-qnkpN8">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=_s9oKqDdjMo">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/CanteenApp">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://github.com/AlbertNugroho/ProjectLEC">Read More</a></td> <!--link2-->
     </tr>
   </tbody>
 </table> 
