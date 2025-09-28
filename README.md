@@ -144,7 +144,7 @@ albertnugroho1506@gmail.com
   "Game Catalogue" is the final project for my Mobile Development course, where I built an application that fetches game data from an API and presents it in a catalogue, making it easier to search and find information about games. I developed this app using Android Studio with Kotlin.<br><br>
   <strong>Duration:</strong> 2 weeks<br><br>
   <strong>Contributions:</strong><br>
-  -Frontend Developer
+  -Frontend Developer<br>
   -Designer
 </td>
     <tr>
