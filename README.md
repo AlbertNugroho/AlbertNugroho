@@ -1,4 +1,4 @@
-<img width="1159" height="292" alt="image" src="https://github.com/user-attachments/assets/413012eb-96d2-4851-adb2-a91f2ce80dc0" />Hi, I'm Albert 👋
+Hi, I'm Albert 👋
 ---
 **📌About** <br>
 I'm an undergraduate student at BINUS University, specializing in Game Development. Passionate about creating immersive gaming experiences, I enjoy working with Unity, procedural level generation, AI-driven gameplay, and flexible game mechanics.
