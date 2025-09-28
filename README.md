@@ -32,7 +32,7 @@ albertnugroho1506@gmail.com
     </tr>
     <tr>
       <td valign="text-top">
-  "Binus Canteen" adalah project akhir mata kuliah software engineering kami dimana kami membuat aplikasi yang dapat mengorder makanan dari kantin binus menggunakan react native
+  "Binus Canteen" is the final project for our Software Engineering course, where we created an application that allows users to order food from the Binus canteen using React Native.
   <br><br>
   <strong>Duration:</strong> 1 month  
   <br><br>
@@ -40,7 +40,7 @@ albertnugroho1506@gmail.com
   -Frontend Developer
 </td>
       <td valign="text-top">
-  "Game Catalogue" adalah tugas akhir matakuliah mobile saya dimana saya membuat aplikasi yang mengambil data game dari API lalu mengemasnya dalam catalogue agar mudah dicari dan ditemukan informasi tentang game tersebut. saya menggunakan android studio kotlin untuk mengembangkan app ini<br><br>
+  "Game Catalogue" is the final project for my Mobile Development course, where I built an application that fetches game data from an API and presents it in a catalogue, making it easier to search and find information about games. I developed this app using Android Studio with Kotlin.<br><br>
   <strong>Duration:</strong> 2 weeks<br><br>
   <strong>Contributions:</strong><br>
   -Frontend Developer
