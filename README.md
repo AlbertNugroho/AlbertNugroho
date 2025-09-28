@@ -154,4 +154,7 @@ albertnugroho1506@gmail.com
   </tbody>
 </table> 
 <br>
+<h2 align = "center">I'm Also a 3D artist</h2>
+<br>
+<h3>Check out <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">my works</a></h3>
 
