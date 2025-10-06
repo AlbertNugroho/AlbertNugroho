@@ -66,7 +66,7 @@ albertnugroho1506@gmail.com
   "Zumi The Slime" is a 3D action adventure game where players control a slime character with unique shooting mechanics inspired by Zuma gameplay. Navigate through challenging levels, defeat enemies using ball matching mechanics along a spline and face off against powerful bosses.
   <strong>Duration:</strong> 3 days<br><br>
   <strong>Contributions:</strong><br>
-  - 3D Artist for the game<br>
+  - 3D Artist for the game (All 3D model for this game is made from scratch)<br>
   - Vfx Artist for the game<br>
   - HealthBarUI<br>
 </td>
