@@ -1,7 +1,7 @@
 Hi, I'm Albert 👋
 ---
 **📌About** <br>
-I'm an undergraduate student at BINUS University, specializing in Game Development. Passionate about creating immersive gaming experiences, I enjoy working with Unity, procedural level generation, AI-driven gameplay, and flexible game mechanics.
+I'm an undergraduate student at BINUS University, specializing in Game Development And 3D art. Passionate about creating immersive gaming experiences, I enjoy working with Unity, procedural level generation, AI-driven gameplay, and flexible game mechanics.
 
 **📩Email** <br>
 albertnugroho1506@gmail.com
@@ -12,6 +12,9 @@ albertnugroho1506@gmail.com
 **🅾Instagram** <br>
 @albertnugrohoreeeeeeeeee
 
+<h2 align = "center">I'm a 3D artist</h2>
+<h3 align = "center">Check out <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">my works</a></h3>
+<br>
 <h2 align = "center">Games That I've Made</h2>
 
 <table width="100%">
@@ -153,6 +156,4 @@ albertnugroho1506@gmail.com
   </tbody>
 </table> 
 <br>
-<h2 align = "center">I'm Also a 3D artist</h2>
-<h3 align = "center">Check out <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">my works</a></h3>
-<br>
+
