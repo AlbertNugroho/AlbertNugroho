@@ -13,7 +13,25 @@ albertnugroho1506@gmail.com
 @albertnugrohoreeeeeeeeee
 
 <h2 align = "center">My 3D Works</h2>
-<h3 align = "center">Check the Details at <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca"></a></h3>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Traveler</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Wooden Sword And Shield</a></th> <!--tittle-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Ruby%20Preview.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/ZumiMain.gif" alt="2" style="width:100%;height:auto;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+<h3 align = "center">Check the Details at <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca</a></h3>
 <br>
 <h2 align = "center">Games That I've Made</h2>
 
