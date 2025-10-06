@@ -13,7 +13,7 @@ albertnugroho1506@gmail.com
 @albertnugrohoreeeeeeeeee
 
 <h2 align = "center">My 3D Works</h2>
-<h3 align = "center">Check out <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">my works</a></h3>
+<h3 align = "center">Check the Details at <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca"></a></h3>
 <br>
 <h2 align = "center">Games That I've Made</h2>
 
