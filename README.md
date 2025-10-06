@@ -18,7 +18,7 @@ albertnugroho1506@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Ruby's way to grandma's</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Super Pony Fighter X</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Zumi The Slime</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -42,7 +42,7 @@ albertnugroho1506@gmail.com
   – Developed the attack system  
 </td>
       <td valign="text-top">
-  "Super Pony Fighter X" is a fast-paced Atari-style shooter where you blast evil ponies, collect power-ups, and aim for the highest score. The game supports both controller and keyboard inputs using Unity's new Input System.<br><br>
+  "Zumi The Slime" is a 3D action adventure game where players control a slime character with unique shooting mechanics inspired by Zuma gameplay. Navigate through challenging levels, defeat enemies using ball matching mechanics along a spline and face off against powerful bosses.
   <strong>Duration:</strong> 3 days<br><br>
   <strong>Contributions:</strong><br>
   - Game design and core mechanics<br>
