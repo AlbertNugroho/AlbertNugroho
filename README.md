@@ -27,7 +27,7 @@ albertnugroho1506@gmail.com
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Ruby%20Preview.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Pony%20Preview.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/ZumiMain.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -45,15 +45,14 @@ albertnugroho1506@gmail.com
   "Zumi The Slime" is a 3D action adventure game where players control a slime character with unique shooting mechanics inspired by Zuma gameplay. Navigate through challenging levels, defeat enemies using ball matching mechanics along a spline and face off against powerful bosses.
   <strong>Duration:</strong> 3 days<br><br>
   <strong>Contributions:</strong><br>
-  - Game design and core mechanics<br>
-  - Score manager implementation<br>
-  - Stackable power-up system<br>
-  - Level design and layout
+  - 3D Artist for the game<br>
+  - Vfx Artist for the game<br>
+  - HealthBarUI<br>
 </td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/AlbertNugroho/Project-DungeonCrawler">Read More</a></td> <!--link1-->
-      <td align="center"><a href="https://github.com/AlbertNugroho/Project-Pony">Read More</a></td> <!--link2-->
+      <td align="center"><a href="https://github.com/Alerica/Zumi-The-Slime">Read More</a></td> <!--link2-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=sIzs-qnkpN8">Trailer</a></td> <!--link1-->
