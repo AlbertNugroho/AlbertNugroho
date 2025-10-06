@@ -108,6 +108,7 @@ albertnugroho1506@gmail.com
   <strong>Duration:</strong> 4 days<br><br>
   <strong>Contributions:</strong><br>
   - Monster AI behavior<br>
+  - Game Visual Direction<br>
   - Paper pickup and collection system<br>
   - Level design and environment layout
 </td>
@@ -115,6 +116,7 @@ albertnugroho1506@gmail.com
   "Necrodemios" is a roguelike game made for Pixel Game Jam 2025, developed in 10 days. You play as NecroDeimos, forging weapons from fallen enemies to battle your way to the boss.<br><br>
   <strong>Duration:</strong> 10 days<br><br>
   <strong>Contributions:</strong><br>
+  - Vfx Artist<br>
   - Player animation & sprite<br>
   - Gun attachment system<br>
   - Bossfight AI<br>
