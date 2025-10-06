@@ -56,7 +56,7 @@ albertnugroho1506@gmail.com
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=sIzs-qnkpN8">Trailer</a></td> <!--link1-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=_s9oKqDdjMo">Trailer</a></td> <!--link2-->
+      <td align="center"><a href="https://youtu.be/CBpGVyWhQTo">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
