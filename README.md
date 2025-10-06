@@ -23,15 +23,15 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Ruby%20Preview.gif" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Traveler.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/ZumiMain.gif" alt="2" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Image%20Sequence_003_0000.jpg" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
   </tbody>
 </table>
-<h3 align = "center">Check the Details at <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca</a></h3>
+<h3 align = "center">Check the Details <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">Here</a></h3>
 <br>
 <h2 align = "center">Games That I've Made</h2>
 
