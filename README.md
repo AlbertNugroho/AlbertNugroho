@@ -12,7 +12,7 @@ albertnugroho1506@gmail.com
 **🅾Instagram** <br>
 @albertnugrohoreeeeeeeeee
 
-<h2 align = "center">I'm a 3D artist</h2>
+<h2 align = "center">My 3D Works</h2>
 <h3 align = "center">Check out <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">my works</a></h3>
 <br>
 <h2 align = "center">Games That I've Made</h2>
