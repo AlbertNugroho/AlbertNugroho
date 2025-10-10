@@ -31,20 +31,12 @@ albertnugroho1506@gmail.com
     </tr>
   </tbody>
 </table>
-<table width="100%" max-width:800px;>
-  <thead>
-    <tr>
-      <th width="100%" align="center">"Rain"</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="1" style="width:100%;height:auto;">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+<div align="center" style="width:100%;max-width:900px;margin:auto;">
+  <h3>"Rain"</h3>
+  <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="Rain" style="width:100%;height:auto;">
+</div>
+
 <h3 align = "center">Check the Details <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">Here</a></h3>
 <br>
 <h2 align = "center">Games That I've Made</h2>
