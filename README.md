@@ -19,6 +19,11 @@ albertnugroho1506@gmail.com
       <th width="50%" align="center"><a>Traveler</a></th> <!--tittle-->
       <th width="50%" align="center"><a>Wooden Sword And Shield</a></th> <!--tittle-->
     </tr>
+    <tr width="100%" align="center">
+      <th>
+        <a>"Rain"</a>
+      </th>
+    </tr>
   </thead>
   <tbody>
     <tr>
@@ -28,6 +33,11 @@ albertnugroho1506@gmail.com
       <td align="center">
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Image%20Sequence_003_0000.jpg" alt="2" style="width:100%;height:auto;">
       </td>
+    </tr>
+     <tr width="100%" align="center">
+      <th>
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="2" style="width:100%;height:auto;">
+      </th>
     </tr>
   </tbody>
 </table>
