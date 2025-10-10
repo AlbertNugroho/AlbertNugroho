@@ -34,7 +34,7 @@ albertnugroho1506@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="100%" align="center">Traveler</th>
+      <th width="100%" align="center">"Rain"</th>
     </tr>
   </thead>
   <tbody>
