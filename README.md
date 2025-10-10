@@ -32,7 +32,7 @@ albertnugroho1506@gmail.com
   </tbody>
 </table>
 
-<table align="center" style="width:100%;>
+<table align="center" style="width:100% max-width:900px; margin:auto; border-collapse:collapse;">
   <thead>
     <tr>
       <th align="center">"Rain"</th>
