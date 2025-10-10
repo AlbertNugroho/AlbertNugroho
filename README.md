@@ -16,14 +16,14 @@ albertnugroho1506@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center">Traveler</th> <!--tittle-->
+      <th width="50%" align="center">"Rain"</th> <!--tittle-->
       <th width="50%" align="center">Wooden Sword And Shield</th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Traveler.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="Rain" style="width:100%; height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Image%20Sequence_003_0000.jpg" alt="2" style="width:100%;height:auto;">
@@ -35,13 +35,13 @@ albertnugroho1506@gmail.com
 <table align="center" style="width:100% max-width:900px; margin:auto; border-collapse:collapse;">
   <thead>
     <tr>
-      <th align="center">"Rain"</th>
+      <th align="center">Traveler</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="Rain" style="width:100%; height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Traveler.png" alt="1" style="width:100%;height:auto;">
       </td>
     </tr>
   </tbody>
