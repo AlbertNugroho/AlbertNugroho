@@ -16,13 +16,8 @@ albertnugroho1506@gmail.com
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Traveler</a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Wooden Sword And Shield</a></th> <!--tittle-->
-    </tr>
-    <tr width="100%" align="center">
-      <th>
-        <a>"Rain"</a>
-      </th>
+      <th width="50%" align="center">Traveler</th> <!--tittle-->
+      <th width="50%" align="center">Wooden Sword And Shield</th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -34,11 +29,18 @@ albertnugroho1506@gmail.com
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Image%20Sequence_003_0000.jpg" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
-     <tr width="100%" align="center">
-      <th>
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="2" style="width:100%;height:auto;">
-      </th>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th width="100%" align="center">Traveler</th>
     </tr>
+  </thead>
+  <tbody>
+    <td align="center">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="1" style="width:100%;height:auto;">
+      </td>
   </tbody>
 </table>
 <h3 align = "center">Check the Details <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">Here</a></h3>
