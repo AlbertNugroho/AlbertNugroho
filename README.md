@@ -31,16 +31,18 @@ albertnugroho1506@gmail.com
     </tr>
   </tbody>
 </table>
-<table width="200%">
+<table width="100%">
   <thead>
     <tr>
       <th width="100%" align="center">"Rain"</th>
     </tr>
   </thead>
   <tbody>
-    <td align="center">
+    <tr>
+      <td align="center">
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="1" style="width:100%;height:auto;">
       </td>
+    </tr>
   </tbody>
 </table>
 <h3 align = "center">Check the Details <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">Here</a></h3>
