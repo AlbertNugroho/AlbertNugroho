@@ -35,15 +35,13 @@ albertnugroho1506@gmail.com
 <table align="center" style="width:100%; max-width:900px; margin:auto; border-collapse:collapse;">
   <thead>
     <tr>
-      <th align="center" style="text-align:center; font-size:1.2em;">"Rain"</th>
+      <th align="center">"Rain"</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="padding:0;">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" 
-             alt="Rain" 
-             style="width:100%; height:auto; display:block; margin:0 auto;">
+      <td align="center">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="Rain" style="width:100%; height:auto;">
       </td>
     </tr>
   </tbody>
