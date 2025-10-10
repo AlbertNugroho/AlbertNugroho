@@ -32,15 +32,15 @@ albertnugroho1506@gmail.com
   </tbody>
 </table>
 
-<table align="center" style="width:100% margin:auto; border-collapse:collapse;">
+<table width="100%">
   <thead>
     <tr>
-      <th align="center">Traveler</th>
+      <th width="50%" align="center">Traveler</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
+      <td width="50%" align="center">
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Traveler.png" alt="1" style="width:100%;height:auto;">
       </td>
     </tr>
