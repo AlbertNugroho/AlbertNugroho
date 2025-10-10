@@ -41,7 +41,7 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Traveler.png" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Traveler.png" alt="1" style="width:50%;height:auto;">
       </td>
     </tr>
   </tbody>
