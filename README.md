@@ -32,10 +32,23 @@ albertnugroho1506@gmail.com
   </tbody>
 </table>
 
-<div align="center" style="width:100%;max-width:900px;margin:auto;">
-  <h3>"Rain"</h3>
-  <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="Rain" style="width:100%;height:auto;">
-</div>
+<table align="center" style="width:100%; max-width:900px; margin:auto; border-collapse:collapse;">
+  <thead>
+    <tr>
+      <th align="center" style="text-align:center; font-size:1.2em;">"Rain"</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="padding:0;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" 
+             alt="Rain" 
+             style="width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h3 align = "center">Check the Details <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">Here</a></h3>
 <br>
