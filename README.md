@@ -31,7 +31,7 @@ albertnugroho1506@gmail.com
     </tr>
   </tbody>
 </table>
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th width="100%" align="center">Traveler</th>
