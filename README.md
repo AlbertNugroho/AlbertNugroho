@@ -23,7 +23,7 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porot.gif" alt="Rain" style="width:100%; height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porto3.gif" alt="Rain" style="width:100%; height:auto;">
       </td>
       <td align="center">
         <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Image%20Sequence_003_0000.jpg" alt="2" style="width:100%;height:auto;">
