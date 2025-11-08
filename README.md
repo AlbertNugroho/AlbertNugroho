@@ -12,44 +12,6 @@ albertnugroho1506@gmail.com
 **🅾Instagram** <br>
 @albertnugrohoreeeeeeeeee
 
-<h2 align = "center">My 3D Works</h2>
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center">"Rain"</th> <!--tittle-->
-      <th width="50%" align="center">Wooden Sword And Shield</th> <!--tittle-->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Porto3.gif" alt="Rain" style="width:100%; height:auto;">
-      </td>
-      <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Image%20Sequence_003_0000.jpg" alt="2" style="width:100%;height:auto;">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center">Traveler</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/Traveler.png" alt="1" style="width:50%;height:auto;">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-<h3 align = "center">Check the Details <a href="https://albertnugroho.notion.site/Hi-I-m-Albert-Nugroho-23d6a917418280f69134c24453e813ca">Here</a></h3>
-<br>
 <h2 align = "center">Games That I've Made</h2>
 
 <table width="100%">
