@@ -151,7 +151,7 @@ albertnugroho1506@gmail.com
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://img.itch.zone/aW1nLzI3NjM0MzQyLnBuZw==/original/cibHNB.png" alt="5" style="width:100%;height:auto;">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/BedTimePrev.gif" alt="5" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
