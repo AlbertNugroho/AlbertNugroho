@@ -98,7 +98,7 @@ albertnugroho1506@gmail.com
      <td valign="text-top">
   "A Winner's Effort" is a Slenderman-inspired horror game where you explore an abandoned factory, collect scattered papers, and escape — but beware, something is stalking you. If you see it… look away.
   <br><br>
-  <strong>Type:</strong> GROUP PROJECT · Role: AI, Visual Direction &amp; Level Design
+  <strong>Type:</strong> Self-initiated · Solo project
   <br><br>
   <strong>Duration:</strong> 4 days<br><br>
   <strong>Contributions:</strong><br>
@@ -107,7 +107,7 @@ albertnugroho1506@gmail.com
   - Paper pickup and collection system<br>
   - Level design and environment layout
   <br><br>
-  <strong>Impact:</strong> In just 4 days the team shipped a complete, tense horror loop — the AI behavior I built was the core mechanic that made the game genuinely scary rather than just atmospheric.
+  <strong>Impact:</strong> In just 4 days I shipped a complete, tense horror loop solo — the AI behavior I built was the core mechanic that made the game genuinely scary rather than just atmospheric.
   <br><br>
   <strong>What I learned:</strong> Working under a tight deadline taught me to prioritize the one mechanic that makes a game's core feeling land, instead of spreading effort thin across features.
 </td>
