@@ -13,7 +13,45 @@ albertnugroho1506@gmail.com
 @albertnugrohoreeeeeeeeee
 
 <h2 align = "center">Games That I've Made</h2>
-
+<br>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><a>Bed Time</a></th> <!--tittle 5-->
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/BedTimePrev.gif" alt="5" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
+      <td valign="text-top">
+  "Bed Time" is a reverse-horror game where you play as the monster under a child's bed. Instead of scaring them, your job is to keep the child asleep until morning — fixing disturbances, banishing nightmares, and hiding whenever the parents come to check the room. Made for the Dreamcubation 2026 game jam.
+  <br><br>
+  <strong>Type:</strong> GROUP PROJECT · Role: 3D Modeler (Characters) &amp; Technical Artist
+  <br><br>
+  <strong>Duration:</strong> 3 days<br><br>
+  <strong>Contributions:</strong><br>
+  - Modeled the game's characters in 3D<br>
+  - Set the game's overall mood and atmosphere as Technical Artist<br>
+  - Built the game's VFX
+  <br><br>
+  <strong>Impact:</strong> The mood and VFX work was central to selling the game's core twist — that the "monster" is actually the child's protector — turning what could read as a generic horror atmosphere into something unsettling but warm.
+  <br><br>
+  <strong>What I learned:</strong> Working as technical artist as well as modeler pushed me to think beyond individual assets, toward how lighting, character design, and VFX combine to carry a game's emotional tone.
+</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://xynite.itch.io/bedtime">Read More</a></td> <!--link 5-->
+    </tr>
+    <tr>
+      <td align="center"><a href="https://www.youtube.com/watch?v=jmsD43cmS_s">Trailer</a></td> <!--link 5-->
+    </tr>
+  </tbody>
+</table>
+<br>
 <table width="100%">
   <thead>
     <tr>
@@ -142,41 +180,4 @@ albertnugroho1506@gmail.com
 </table>
 <br>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%" align="center"><a>Bed Time</a></th> <!--tittle 5-->
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://github.com/AlbertNugroho/AlbertNugroho/blob/main/BedTimePrev.gif" alt="5" style="width:100%;height:auto;">
-      </td>
-    </tr>
-    <tr>
-      <td valign="text-top">
-  "Bed Time" is a reverse-horror game where you play as the monster under a child's bed. Instead of scaring them, your job is to keep the child asleep until morning — fixing disturbances, banishing nightmares, and hiding whenever the parents come to check the room. Made for the Dreamcubation 2026 game jam.
-  <br><br>
-  <strong>Type:</strong> GROUP PROJECT · Role: 3D Modeler (Characters) &amp; Technical Artist
-  <br><br>
-  <strong>Duration:</strong> 3 days<br><br>
-  <strong>Contributions:</strong><br>
-  - Modeled the game's characters in 3D<br>
-  - Set the game's overall mood and atmosphere as Technical Artist<br>
-  - Built the game's VFX
-  <br><br>
-  <strong>Impact:</strong> The mood and VFX work was central to selling the game's core twist — that the "monster" is actually the child's protector — turning what could read as a generic horror atmosphere into something unsettling but warm.
-  <br><br>
-  <strong>What I learned:</strong> Working as technical artist as well as modeler pushed me to think beyond individual assets, toward how lighting, character design, and VFX combine to carry a game's emotional tone.
-</td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://xynite.itch.io/bedtime">Read More</a></td> <!--link 5-->
-    </tr>
-    <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=jmsD43cmS_s">Trailer</a></td> <!--link 5-->
-    </tr>
-  </tbody>
-</table>
-<br>
+
