@@ -160,6 +160,7 @@ albertnugroho1506@gmail.com
   <br><br>
   <strong>Type:</strong> GROUP PROJECT · Role: 3D Modeler (Characters) &amp; Technical Artist
   <br><br>
+  <strong>Duration:</strong> 3 days<br><br>
   <strong>Contributions:</strong><br>
   - Modeled the game's characters in 3D<br>
   - Set the game's overall mood and atmosphere as Technical Artist<br>
