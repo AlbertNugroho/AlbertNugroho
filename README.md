@@ -13,7 +13,6 @@ albertnugroho1506@gmail.com
 @albertnugrohoreeeeeeeeee
 
 <h2 align = "center">Games That I've Made</h2>
-<br>
 <table width="100%">
   <thead>
     <tr>
