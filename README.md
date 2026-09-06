@@ -142,40 +142,39 @@ albertnugroho1506@gmail.com
 </table>
 <br>
 
-<h2 align = "center">🚧 Coming Soon</h2>
-
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>[ Your 5th Project Title Here ]</a></th>
+      <th width="50%" align="center"><a>Bed Time</a></th> <!--tittle 5-->
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td align="center">
+        <img src="https://img.itch.zone/aW1nLzI3NjM0MzQyLnBuZw==/original/cibHNB.png" alt="5" style="width:100%;height:auto;">
+      </td>
+    </tr>
+    <tr>
       <td valign="text-top">
-
-  <em>Reserve this slot for something that shows a side of you the other four projects don't yet — a personal 3D art piece, a current work-in-progress, a jam entry outside game dev, or a non-game creative project. Fill in each line below, then delete this note.</em>
+  "Bed Time" is a reverse-horror game where you play as the monster under a child's bed. Instead of scaring them, your job is to keep the child asleep until morning — fixing disturbances, banishing nightmares, and hiding whenever the parents come to check the room. Made for the Dreamcubation 2026 game jam.
   <br><br>
-  <strong>Type:</strong> Self-initiated OR class assignment · Solo OR GROUP PROJECT (state your exact role if group)
-  <br><br>
-  <strong>Duration:</strong> [ how long did it take? ]
+  <strong>Type:</strong> GROUP PROJECT · Role: 3D Modeler (Characters) &amp; Technical Artist
   <br><br>
   <strong>Contributions:</strong><br>
-  - [ specific, concrete contribution ]<br>
-  - [ specific, concrete contribution ]<br>
-  - [ specific, concrete contribution ]
+  - Modeled the game's characters in 3D<br>
+  - Set the game's overall mood and atmosphere as Technical Artist<br>
+  - Built the game's VFX
   <br><br>
-  <strong>Impact:</strong> [ what changed because you made this — feedback, players reached, a problem solved ]
+  <strong>Impact:</strong> The mood and VFX work was central to selling the game's core twist — that the "monster" is actually the child's protector — turning what could read as a generic horror atmosphere into something unsettling but warm.
   <br><br>
-  <strong>What I learned:</strong> [ a genuine, specific takeaway, not a generic line ]
-
+  <strong>What I learned:</strong> Working as technical artist as well as modeler pushed me to think beyond individual assets, toward how lighting, character design, and VFX combine to carry a game's emotional tone.
 </td>
     </tr>
     <tr>
-      <td align="center"><a href="#">Read More</a></td>
+      <td align="center"><a href="https://xynite.itch.io/bedtime">Read More</a></td> <!--link 5-->
     </tr>
     <tr>
-      <td align="center"><a href="#">Trailer</a></td>
+      <td align="center"><a href="https://www.youtube.com/watch?v=jmsD43cmS_s">Trailer</a></td> <!--link 5-->
     </tr>
   </tbody>
 </table>
